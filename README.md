@@ -4,7 +4,7 @@ Juego realizado en **PHP** en el que el usuario intenta adivinar el número que 
 
 Tendrá <ins>5 intentos</ins> para averiguar el número.
 
-Juega aquí: <>
+Juega aquí: https://adivina-el-numero-php-12c5a.wasmer.app
 
 <img width="500px" src="img/captura_1.png">
 
