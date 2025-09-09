@@ -4,6 +4,8 @@ Juego realizado en **PHP** en el que el usuario intenta adivinar el número que 
 
 Tendrá <ins>5 intentos</ins> para averiguar el número.
 
+Juega aquí: <>
+
 <img width="500px" src="img/captura_1.png">
 
 <img width="500px" src="img/captura_2.png">
