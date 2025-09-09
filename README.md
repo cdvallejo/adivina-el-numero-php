@@ -2,4 +2,19 @@
 
 Juego realizado en **PHP** en el que el usuario intenta adivinar el número que ha pensado el ordenador.
 
-Tendrá 5 intentos para averiguar el número.
+Tendrá <ins>5 intentos</ins> para averiguar el número.
+
+<img width="500px" src="img/captura_1.png">
+
+<img width="500px" src="img/captura_2.png">
+
+<img width="500px" src="img/captura_3.png">
+
+## Características del juego
+
+* Realizado en PHP
+* Sigue buenas prácticas
+* Programado con cariño ❤️
+* Adictivo
+
+Dale una ⭐ a este repo si te ha gustado.
