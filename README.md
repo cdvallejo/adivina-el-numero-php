@@ -1,6 +1,6 @@
 # Juego PHP "Adivina el número"
 
-Juego realizado en **PHP** en el que el usuario intenta adivinar el número que ha pensado el ordenador.
+Juego realizado en ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) en el que el usuario intenta adivinar el número que ha pensado el ordenador.
 
 Tendrá <ins>5 intentos</ins> para averiguar el número.
 
